@@ -1,2 +1,1 @@
-# group-lock-breaker
-Break's most group lockers, if it doesn't see README
+# If the locker doesn't break, remove lines 29-34
